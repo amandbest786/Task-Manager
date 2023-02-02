@@ -5,12 +5,19 @@ This is a simple task manager API built with Node.js, Express, MongoDB and Mongo
 
 ## Prerequisites
 `Node.js`
+
 `Express`
+
 `MongoDB`
+
 `Mongoose`
+
 `JSON Web Tokens (JWT)`
+
 `bcryptjs`
+
 `express-validator`
+
 `Postman for API testing`
 
 ## Installing
